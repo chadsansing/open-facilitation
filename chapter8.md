@@ -1,6 +1,6 @@
 # 8. Design: Assembling your team
 
-*Bring colleagues together to deepen your facilitation bench.*
+_Bring colleagues together to deepen your facilitation bench._
 
 ## How to assemble a team
 
@@ -10,21 +10,21 @@ First, let’s think about how to design and form a facilitation team.
 
 Even if you work independently most of the time, there’s value in thinking through how others can
 
-- Facilitate similar work in similar ways.
-- Contribute to your design process.
-- Join you as a facilitator on an ongoing basis or just for a particular event.
+* Facilitate similar work in similar ways.
+* Contribute to your design process.
+* Join you as a facilitator on an ongoing basis or just for a particular event.
 
 The ultimate goal of your work is to help as many people as possible learn and experience success with the content you facilitate. Helping others do the same - and accepting help from others to improve your work - amplifies its reach and impact. You’ll reach more people by networking and collaborating with other facilitators than you will on your own. If you haven’t thought about opening your practice to share your work or ask others how to improve it, now’s the time.
 
 You should be just as intentional about forming a team as you are about planning and delivering an activity. For example you might follow a design process like this to team-up with others:
 
-- ***Define the problem.*** What are your strengths and weaknesses as a facilitator? How could others complement your skills and expertise? What is your goal for a project or event, and who can help you achieve it?
-- ***Identify your audience.*** Are you especially effective with some audiences, but not others? Who has expertise they can contribute to your work with the audiences you struggle to reach?
-- ***Brainstorm.*** Who can help you improve your work and reach more diverse audiences? Who might be a great mentor for you? Who seems as passionate as you are about your work? Who seems to have as much fun doing the work as you do? Who shares a similar stake in your audience’s success?
-- ***Prototype.*** Ask for help from a few likely potential collaborators. See how it feels to work together and what you both get from the relationship. Thank them for their help and evaluate how well you might be able to work together again in the future to design and facilitate a specific event. Don’t force relationships that don’t seem to work, but count candor and constructive criticism as hallmarks of relationships that do.
-- ***Test and iterate.*** After a few successful prototypes in collaboration and facilitation, consider extending a more substantial invitation to the people with whom you work best and learn from whom you learn the most. Think about what you can give back to them, too. The big idea is to form a team that can last and serve your audience better than you can alone, not to exploit people for your own professional gain. Anchor your invitation in a specific project or event and schedule a kickoff meeting to clarify your roles and coordinate your efforts.
+* _**Define the problem.**_ What are your strengths and weaknesses as a facilitator? How could others complement your skills and expertise? What is your goal for a project or event, and who can help you achieve it?
+* _**Identify your audience.**_ Are you especially effective with some audiences, but not others? Who has expertise they can contribute to your work with the audiences you struggle to reach?
+* _**Brainstorm.**_ Who can help you improve your work and reach more diverse audiences? Who might be a great mentor for you? Who seems as passionate as you are about your work? Who seems to have as much fun doing the work as you do? Who shares a similar stake in your audience’s success?
+* _**Prototype.**_ Ask for help from a few likely potential collaborators. See how it feels to work together and what you both get from the relationship. Thank them for their help and evaluate how well you might be able to work together again in the future to design and facilitate a specific event. Don’t force relationships that don’t seem to work, but count candor and constructive criticism as hallmarks of relationships that do.
+* _**Test and iterate.**_ After a few successful prototypes in collaboration and facilitation, consider extending a more substantial invitation to the people with whom you work best and learn from whom you learn the most. Think about what you can give back to them, too. The big idea is to form a team that can last and serve your audience better than you can alone, not to exploit people for your own professional gain. Anchor your invitation in a specific project or event and schedule a kickoff meeting to clarify your roles and coordinate your efforts.
 
-You don’t need to do this all at once and you may change up your roster, so to speak, as you plan for different events or as you, yourself, contribute to other teams. 
+You don’t need to do this all at once and you may change up your roster, so to speak, as you plan for different events or as you, yourself, contribute to other teams.
 
 The most important part of assembling your facilitation team is improving the work you do for your audience. Surround yourself with people who can help you do that and give back to their work, as well.
 
@@ -34,7 +34,7 @@ Once you’ve brought together a team of co-facilitators for a project or event,
 
 There are times when everyone will wind up doing the same thing. You might brainstorm together or all pitch in to move around tables and chairs just ahead of an event.
 
-However, during planning and any events themselves, you need to be able to depend on one another to accomplish specific tasks and deliver specific resources in a timely way.
+However, during planning and any events themselves, you need to be able to depend on one another to accomplish specific tasks and deliver specific resources in a timely way.  
 For example you might divide work by activity and have everyone work on one piece of the agenda. You might form partnerships to develop an offline task and an online task for each topic you’ll cover at a workshop. You might have some people working on content and others migrating it to the web. You might have some people working on logistics for an event and others working on the particulars of any lesson plans and slide decks you’ll use there. Someone might be your go-to documentation and reporting person. Someone might be the lead facilitator for an activity while others serve as “table-wranglers” who circulate and troubleshoot around the room.
 
 Setting up a role a set of responsibilities for each teammate helps make your design process and delivery more efficient and effective. You’ll have more time for testing and iterating before and during an event by working together in different roles than you’d have if everyone was trying to play every role or if just one person was.
@@ -54,3 +54,4 @@ Think of people who can help with design, delivery, or both. There’s no blocke
 ## Invite colleagues to co-facilitate
 
 Customize [this template](/activities/invite-colleagues-to-co-facilitate) to invite potential collaborators to contribute to your work. This might be a great time to evaluate potential relationships while testing your prototype activities from earlier in the section.
+

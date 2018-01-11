@@ -2,7 +2,7 @@
 
 ## Welcome & introduction
 
-###Let’s work together to become better facilitators.
+***Let’s work together to become better facilitators.***
 
 Welcome to this guide to a personal, humane, and design-driven facilitation practice for activists, educators, and librarians. The lessons in this guide have been drawn from building networks and web literacy work at the [Mozilla Foundation](https://foundation.mozilla.org/). This guide is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
