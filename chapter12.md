@@ -1,4 +1,4 @@
-#Event prep: Make it more inviting (#mimi)
+# 12. Event prep: Make it more inviting (#mimi)
 
 *Improve accessibility ahead of your event.*
 

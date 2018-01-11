@@ -1,4 +1,4 @@
-# Design: The small loop
+# 9. Design: The small loop
 
 *Planning prepares you to use small design loops throughout an event.*
 

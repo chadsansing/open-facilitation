@@ -1,4 +1,4 @@
-# Debrief: Gathering data
+# 22. Debrief: Gathering data
 
 *Set yourself up for a successful debrief before an event begins.*
 
@@ -11,7 +11,7 @@ In some cases, you audience’s feedback will match what you think; in other cas
 Whenever you can, try to align your post-event survey with any pre-event survey you send to your participants. You can repeat or slightly change many of the same questions to find out whether or not attendees think they grew or learned new concepts and skills as a result of your facilitation.
 Here’s an example of a post-survey from a web literacy training run by Mozilla:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf4ISVDCOmvj_i48pR2TKOyTorO_ykJlvn8q64dz4Vr1BdqiQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[Survey]
 
 The first half of the survey repeats questions from a pre-event survey sent to registered attendees. Repeating questions like these let you assess the perceived impact of your work on your learners’ self-assessment of their knowledge and skills. 
 

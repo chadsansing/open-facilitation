@@ -1,4 +1,4 @@
-# Envisioning your projects, events, & activities
+# 1. Envisioning open facilitation
 
 *Drill down to the core values of your facilitation work.*
 

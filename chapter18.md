@@ -1,4 +1,4 @@
-# Care: Showing care through facilitation
+# 18. Care: Showing care through facilitation
 
 *Design and deliver experiences that account for learners’ needs.*
 

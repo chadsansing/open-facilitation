@@ -1,4 +1,4 @@
-# Design: Brainstorming & prototyping
+# 6. Design: Brainstorming & prototyping
 
 *Capture your thoughts & build prototypes from those most likely to succeed.*
 

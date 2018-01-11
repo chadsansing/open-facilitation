@@ -1,4 +1,4 @@
-# Decision-making
+# 2. Decision-making
 
 *Listen and lead to improve your work.*
 

@@ -1,4 +1,4 @@
-# Design: testing & iterating
+# 7. Design: testing & iterating
 
 *Gather feedback from trusted readers ahead of running your activities.*
 

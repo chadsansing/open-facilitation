@@ -1,4 +1,4 @@
-# Debrief: Develop a protocol
+# 23. Debrief: Develop a protocol
 
 *Make the debrief a routine part of your facilitation practice.*
 

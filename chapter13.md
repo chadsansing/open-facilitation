@@ -1,4 +1,4 @@
-# Event prep: Preparing your team
+# 13. Event prep: Preparing your team
 
 *Affirm your roles and set aside time to connect and rehearse.*
 

@@ -1,6 +1,6 @@
-# Care
+# 17. Care
 
-*Show care by recognizing that your learners’ needs are your own.*
+*Show care by aligning your needs with your learners' needs.*
 
 Sometimes in education, we’re tempted to think that teachers and learners are in competition with one another. As facilitators, it’s easy to feel like we have to cover a certain amount of content in a certain amount of time or that that we have to get through this before we can do that. It causes us anxiety when we try to speed through something our learners resist that we think we must do. It cause our learners anxiety when we do that, too. The promise of a better activity down the line doesn’t do much to relieve the struggle of plodding our way through an activity learners don’t want to do or through content they don’t want to learn. A negative or disengaging experience doesn’t provide proof of a greater payoff down the line.
 

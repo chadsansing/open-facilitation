@@ -1,4 +1,4 @@
-# Event prep: A note on materials
+# 14. Event prep: A note on materials
 
 *Unpack the biases, boundaries, and possibilities of materials you bring to an event.*
 

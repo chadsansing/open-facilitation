@@ -1,4 +1,4 @@
-# Design: Other helpful habits
+# 10. Design: Other helpful habits
 
 *Keep these methods in mind as you design for learners’ needs.*
 

@@ -1,4 +1,4 @@
-# Reflection: Reflection as learning & planning
+# 25. Reflection: Reflection as learning & planning
 
 *Make a habit of formative, forward-looking reflection.*
 

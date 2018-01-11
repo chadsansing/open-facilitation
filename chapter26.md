@@ -1,4 +1,4 @@
-# Outcomes of open facilitation
+# 26. Outcomes of open facilitation
 
 *Look for incremental growth as you iterate your practice.*
 
