@@ -1,0 +1,1 @@
+All content in this repo is licensed CC-BY 4.0.
