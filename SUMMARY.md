@@ -22,4 +22,9 @@
 * [19. Failure](chapter19.md)
 * [20. Failure: Assessing failure](chapter20.md)
 * [21. Debrief](chapter21.md)
+* [22. Debrief: Gathering data](chapter22.md)
+* [23. Debrief: Develop a protocol](chapter23.md)
+* [24. Reflection](chapter24.md)
+* [25. Reflection: Reflection as learning & planning](chapter25.md)
+* [26. Outcomes of open facilitation](chapter26.md)
 
