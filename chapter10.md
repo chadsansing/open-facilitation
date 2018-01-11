@@ -1,10 +1,10 @@
-# Design: Other helpful habits
+# 10. Design: Other helpful habits
 
-*Keep these methods in mind as you design for learners’ needs.*
+_Keep these methods in mind as you design for learners’ needs._
 
 ## Manage expectations
 
-Be realistic about what you and learners can accomplish together during the time you share. If you try to squeeze an entire workshop into an hour-long session, it’s likely that you’ll rush through parts of the learning your attendees need your help to unpack. If you try to stretch an hour-long lesson into a half-day seminar, it’s likely that you’ll run out of steam and wind up with a lot of dead air and disgruntled participants. 
+Be realistic about what you and learners can accomplish together during the time you share. If you try to squeeze an entire workshop into an hour-long session, it’s likely that you’ll rush through parts of the learning your attendees need your help to unpack. If you try to stretch an hour-long lesson into a half-day seminar, it’s likely that you’ll run out of steam and wind up with a lot of dead air and disgruntled participants.
 
 Managing expectations before an event means planning appropriately for the amount of time you have and the amount of experience your learners have with your topic.
 
@@ -14,18 +14,18 @@ You should err on the side of over-preparing. Always have one more backup plan t
 
 However, rather than try to do it all, have these things up your sleeve so you can make decisions in the moment based on the feedback you’re reading from the room.
 
-Align the ambition of your design with the capacity you and your learners have to achieve it in a set amount of time, but be ready to slow down or speed up a gear, so to speak, in response to the progress you make together. 
+Align the ambition of your design with the capacity you and your learners have to achieve it in a set amount of time, but be ready to slow down or speed up a gear, so to speak, in response to the progress you make together.
 
 If you’re consistently surprised by how little your learners get done, look at your own planning. Do the same if you always seems to have extra time at the end of an event. Don’t blame the audience; don’t blame the activity; iterate.
 
-To make iteration as easy as possible, chunk everything. Make a robust agenda that can account for possibilities. Avoid overly complicated plans or events that build toward a final activity that depends on absolute, just-right outcomes from earlier ones. 
-Prepare in a modular way that gives you the flexibility to change your agenda as needed. Don’t overshoot the mark in planning an experience you don’t have the time (or capacity) to finish with your audience. Think of your activities as songs that could all go in the same playlist, even though you have to choose 3 or 5 or 10 depending on how much time you have. 
+To make iteration as easy as possible, chunk everything. Make a robust agenda that can account for possibilities. Avoid overly complicated plans or events that build toward a final activity that depends on absolute, just-right outcomes from earlier ones.   
+Prepare in a modular way that gives you the flexibility to change your agenda as needed. Don’t overshoot the mark in planning an experience you don’t have the time \(or capacity\) to finish with your audience. Think of your activities as songs that could all go in the same playlist, even though you have to choose 3 or 5 or 10 depending on how much time you have.
 
 Likewise, don’t under-deliver. Use all the time you have to help your participants move as far ahead as possible towards realistic and achievable goals. Don’t be the facilitator who rushes out ahead of the crowd or holds it back unduly.
 
 ## Roadmap your session
 
-In a previous section, you created a flowchart of breakpoints in your agenda at which you could pause to assess, decide, and act in response to what’s happening in the room.
+In a previous section, you created a flowchart of breakpoints in your agenda at which you could pause to assess, decide, and act in response to what’s happening in the room.  
 Now imagine the experience you want your learners to have. Picture yourself moving through your agenda as a participant.
 
 Take what you see and use it to sketch a learner-centric roadmap of your event. A roadmap helps you plan your route and figure out what needs to happen for you to get from Point A to Point B over a certain amount of time. Your design work so far has been largely concerned with your journey as a facilitator. You can think of your agenda as your roadmap for the event.
@@ -46,14 +46,15 @@ A persona is description of an imaginary user that you can use to improve your o
 
 Mozilla’s [Study Group Onboarding guide](https://mozillascience.github.io/study-group-onboarding/6.3-personas.html) puts it like this:
 
-> A “persona” is a tool commonly used in the design world, to help create products and experiences that work for real world users (aka “user-centered design”). You’d use a persona when you want to make your group experience better for members, attract an audience you're not yet bringing in, or to try to understand why people may be drifting away from your group.
-
+> A “persona” is a tool commonly used in the design world, to help create products and experiences that work for real world users \(aka “user-centered design”\). You’d use a persona when you want to make your group experience better for members, attract an audience you're not yet bringing in, or to try to understand why people may be drifting away from your group.
+>
 > To recap, the persona is a description of a user. Personas should:
->- describe an imaginary user
->- be based on observations or understandings of actual potential or current users
->- be detailed enough so it feels real to the designer, so they can imagine the persona’s needs and responses to a product (or in this case, process of contributing)
+>
+> * describe an imaginary user
+> * be based on observations or understandings of actual potential or current users
+> * be detailed enough so it feels real to the designer, so they can imagine the persona’s needs and responses to a product \(or in this case, process of contributing\)
 
-You can use a persona to complement your road map. Once you’ve imagined how any learner might move through your event, you can write personas to imagine what specific kinds of learners might need from you and your agenda. 
+You can use a persona to complement your road map. Once you’ve imagined how any learner might move through your event, you can write personas to imagine what specific kinds of learners might need from you and your agenda.
 
 Developing personas is a way to further revise and refine your facilitation by anticipating specific user needs you’re likely to encounter in the moment of teaching and learning.
 
@@ -73,7 +74,7 @@ Afterwards, iterate your designs and planning to account for you think your lear
 
 ### Write personas for your event
 
-Check out [this example and template](/activities/write-personas-for-your-event) for writing personas. Write 2-3 personas that capture different kinds of users who might attend your event. 
+Check out [this example and template](/activities/write-personas-for-your-event) for writing personas. Write 2-3 personas that capture different kinds of users who might attend your event.
 
 After you imagine their background and experience, revise your designs and plans again to account for the needs that users like these will bring to your session.
 
