@@ -1,14 +1,14 @@
-# 20. Failure: Assessing failure
+# 7.1 Failure: Assessing failure
 
-*Figure out how to move on when something doesn’t work.*
+_Figure out how to move on when something doesn’t work._
 
 ## Expect to fail
 
 We make a lot of decisions during the design, planning, and delivery of our work. Each decision has the potential to go wrong - to become a failure or mistake. We can’t avoid making mistakes. However, when we make them it’s important to
 
-- Acknowledge them.
-- Learn from them.
-- Try not to repeat them.
+* Acknowledge them.
+* Learn from them.
+* Try not to repeat them.
 
 How we handle failure impact our relationships with our colleagues, event organizers, and audience members. Failure is an opportunity to build and rebuild trust, as well as to improve the quality of relevance of your content for your learners.
 
@@ -28,7 +28,7 @@ So long as you act in good-faith and design with input from colleagues and poten
 
 Ultimately, there are mistakes you can anticipate and mistakes you can’t.
 
-You can anticipate some mistakes because you’ve made them before or because you’re proofing your work against input from colleagues, event organizers, and potential audience members. If you can anticipate a mistake or the possibility of failure, plan accordingly. Fix your mistake before you facilitate an event, or have a backup plan ready in case you need to punt an activity mid-session. 
+You can anticipate some mistakes because you’ve made them before or because you’re proofing your work against input from colleagues, event organizers, and potential audience members. If you can anticipate a mistake or the possibility of failure, plan accordingly. Fix your mistake before you facilitate an event, or have a backup plan ready in case you need to punt an activity mid-session.
 
 Avoid shortcuts like reusing an old activity that was so-so because you don’t have time to tailor it for your audience. If you know you need more time, acknowledge that, say so, and budget it into your process between events. Likewise, keep revising and improving the materials you use and share - don’t rely on face-to-face facilitation to smooth over rough spots in content you’re inviting others to use and build from after an event.
 

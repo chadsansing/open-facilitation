@@ -1,4 +1,4 @@
-# 14. Event prep: A note on materials
+# 4.3 Event prep: A note on materials
 
 _Unpack the biases, boundaries, and possibilities of materials you bring to an event._
 
@@ -57,7 +57,7 @@ or
 
 > Send a person from your group to the materials table. That person can bring back anything they find \[from our list of materials above\]. Next, work together and use those materials to create a model of how the internet works. After ten minutes, we’ll go from table to table on a “gallery walk” to listen to each group share its thinking about how its model works.
 
-What biases do you see in each prompt? In each set of materials? Which prompt supports learning best? Which one allows for the most diversity of “correct” answers?   
+What biases do you see in each prompt? In each set of materials? Which prompt supports learning best? Which one allows for the most diversity of “correct” answers?  
 What are your takeaways from those prompts? How can they help you revise the assignments in your activities?
 
 Finally, always be on the lookout for materials you can add to your traveling facilitation kit. When you see a new resource that might inspire a new kind of response to one of your favorite prompts, bring it to your learners if you can. Avoid “closed” kits that can only be used to make one thing or that are consumed after a single use. Look for the most reusable and remixable materials possible and err on the side of easily manipulable, open resources that carry more bias towards things like discovery and delight than they do towards privilege.

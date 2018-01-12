@@ -1,4 +1,4 @@
-# 5. Design: Creativity & Constraint
+# 3.2 Design: Creativity & Constraint
 
 _Be intentional, but imaginative, in your design_
 

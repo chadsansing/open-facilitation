@@ -1,4 +1,4 @@
-# 4. Design: Process
+# 3.1 Design: Process
 
 _Follow these steps to plan facilitation you can test and improve_
 
@@ -65,7 +65,7 @@ This is the big design loop of facilitation. There are countless small ones that
 
 For example, when an activity tanks, you have to make a decision about following through, changing it, or ditching it entirely before moving on to the next one. You have to find ways to relate to and communicate with your learners so you can “read” the room and all the real-time feedback available to you in it. Or maybe technology fails. Or maybe an activity runs over time or under by a lot.
 
-Part of improving your facilitation is planning for moments like these when tiny feedback loops kick in and let you know if something is working or not working for your learners during an   
+Part of improving your facilitation is planning for moments like these when tiny feedback loops kick in and let you know if something is working or not working for your learners during an  
 activity.
 
 It’s not just the activities that you’re designing; it’s also the flow of the day you spend with your learners.

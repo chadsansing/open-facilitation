@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# 12. Event prep: Make it more inviting (#mimi)
-=======
-# 12. Event prep: Make it more inviting \(\#mimi\)
->>>>>>> origin/master
+# 4.1 Event prep: Make it more inviting \(\#mimi\)
 
 _Improve accessibility ahead of your event._
 

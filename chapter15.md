@@ -1,4 +1,4 @@
-# 15. Trust
+# 5. Trust
 
 _Build trust through excellent facilitation._
 

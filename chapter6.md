@@ -1,4 +1,4 @@
-# 6. Design: Brainstorming & prototyping
+# 3.3 Design: Brainstorming & prototyping
 
 _Capture your thoughts & build prototypes from those most likely to succeed._
 
@@ -41,7 +41,7 @@ For example, you might follow a process like this in a face-to-face \(F2F\) brai
 
 Be sure to capture all the ideas in your notes, however you take them.
 
-If you’re working virtually on a shared document, set aside some “silent ether-padding” or “silent Google docs” time for people to type in their ideas without comment.   
+If you’re working virtually on a shared document, set aside some “silent ether-padding” or “silent Google docs” time for people to type in their ideas without comment.  
 Whether you’re working F2F or online, you need to reach consensus on which ideas to prototype next.
 
 To find out which ideas resonate most with your teammates \(or yourself\) and to see which ideas most clearly address your problem statement and learners’ needs, you can invite your teammates to put a sticker next to the ideas they think will work best or to type  “+1” next to ideas on a shared document. People can also post clarifying questions with sticky notes or type them into your doc.

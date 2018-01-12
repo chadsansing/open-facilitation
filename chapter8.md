@@ -1,4 +1,4 @@
-# 8. Design: Assembling your team
+# 3.5 Design: Assembling your team
 
 _Bring colleagues together to deepen your facilitation bench._
 

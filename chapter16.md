@@ -1,4 +1,4 @@
-# 16. Trust: Building trust as a facilitator
+# 5.1 Trust: Building trust as a facilitator
 
 _Show your care for event organizers and attendees._
 

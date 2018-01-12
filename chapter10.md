@@ -1,4 +1,4 @@
-# 10. Design: Other helpful habits
+# 3.7 Design: Other helpful habits
 
 _Keep these methods in mind as you design for learners’ needs._
 
@@ -18,7 +18,7 @@ Align the ambition of your design with the capacity you and your learners have t
 
 If you’re consistently surprised by how little your learners get done, look at your own planning. Do the same if you always seems to have extra time at the end of an event. Don’t blame the audience; don’t blame the activity; iterate.
 
-To make iteration as easy as possible, chunk everything. Make a robust agenda that can account for possibilities. Avoid overly complicated plans or events that build toward a final activity that depends on absolute, just-right outcomes from earlier ones.   
+To make iteration as easy as possible, chunk everything. Make a robust agenda that can account for possibilities. Avoid overly complicated plans or events that build toward a final activity that depends on absolute, just-right outcomes from earlier ones.  
 Prepare in a modular way that gives you the flexibility to change your agenda as needed. Don’t overshoot the mark in planning an experience you don’t have the time \(or capacity\) to finish with your audience. Think of your activities as songs that could all go in the same playlist, even though you have to choose 3 or 5 or 10 depending on how much time you have.
 
 Likewise, don’t under-deliver. Use all the time you have to help your participants move as far ahead as possible towards realistic and achievable goals. Don’t be the facilitator who rushes out ahead of the crowd or holds it back unduly.
