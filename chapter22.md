@@ -11,13 +11,7 @@ In some cases, you audience’s feedback will match what you think; in other cas
 Whenever you can, try to align your post-event survey with any pre-event survey you send to your participants. You can repeat or slightly change many of the same questions to find out whether or not attendees think they grew or learned new concepts and skills as a result of your facilitation.  
 Here’s an example of a post-survey from a web literacy training run by Mozilla:
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  
 \[Survey\]
-
-=======
-
-> > > > > > > origin/master  
-> > > > > > > The first half of the survey repeats questions from a pre-event survey sent to registered attendees. Repeating questions like these let you assess the perceived impact of your work on your learners’ self-assessment of their knowledge and skills.
 
 It’s not uncommon to see results “drop” in a post-survey if your class, session, or workshop helps learners get a more accurate view of their competencies than they had before. However, generally, repeating questions like these and then following up with questions about the training itself lets you see how participants feel about what - and how much - they learned. The questions in the last half of the post-event survey invite participants to rate the effectiveness of your facilitation to give you a more complete picture of their experiences throughout the day.
 
@@ -27,7 +21,7 @@ It’s not uncommon to see results “drop” in a post-survey if your class, se
 
 Following the model above, and working with [Google Forms](https://docs.google.com/forms/u/0/) or another survey tool like [Survey Monkey](https://www.surveymonkey.com/), create a post-event survey that will help you debrief and reflect after an event.
 
-If you also sent out a pre-event survey, be sure to repeat and align some questions so you can get an idea of learners’ growth as a result of your class, session, or workshop.   
+If you also sent out a pre-event survey, be sure to repeat and align some questions so you can get an idea of learners’ growth as a result of your class, session, or workshop.  
 Be sure to ask questions about the even and your facilitation, as well, to get a fuller picture of participants’ experiences, and invite them to make suggestions about how to improve your work for next time.
 
 The big idea is to end with a dataset that helps you iterate and improve your facilitation in response to explicit feedback from your learners about how well you met their needs
