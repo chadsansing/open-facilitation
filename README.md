@@ -12,6 +12,8 @@ This purpose of the guide is to help you think of facilitation as a design proce
 * Each subsection will unpack part of that topic 
 * Each subsection will also suggest assignments that can help you develop your facilitation skills further.
 
+For the purposes of this guide, "facilitation" and "teaching" are synonymous, and an "event" can be any instance of facilitation or teaching from a single class to a multi-day workshop to a multi-module online course.
+
 If you’re curious about facilitating different kinds of work - such as event planning or project management - check out Mozilla’s [Open Leadership programs](https://mozilla.github.io/leadership-training/), as well.
 
 If you have ideas about how to improve this resource, please share them with us. Email curriculum manager [Chad Sansing](mailto:chad@mozillafoundation.org) or file an issue in [this GitHub repo](https://github.com/chadsansing/open-facilitation).
