@@ -1,6 +1,6 @@
 # Summary
 
-* [0. Welcom & introduction](README.md)
+* [0. Welcome & introduction](README.md)
 * [1. Envisioning open facilitation](chapter1.md)
 * [2. Decision-making](chapter2.md)
 * [3. Design](chapter3.md)
