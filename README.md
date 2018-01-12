@@ -14,5 +14,5 @@ This purpose of the guide is to help you think of facilitation as a design proce
 
 If you’re curious about facilitating different kinds of work - such as event planning or project management - check out Mozilla’s [Open Leadership programs](https://mozilla.github.io/leadership-training/), as well.
 
-If you have ideas about how to improve this curriculum, please share them with us. Email curriculum manager [Chad Sansing](mailto:chad@mozillafoundation.org) or file an issue in [this GitHub repo](https://github.com/chadsansing/open-facilitation).
+If you have ideas about how to improve this resource, please share them with us. Email curriculum manager [Chad Sansing](mailto:chad@mozillafoundation.org) or file an issue in [this GitHub repo](https://github.com/chadsansing/open-facilitation).
 
