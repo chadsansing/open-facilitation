@@ -61,10 +61,10 @@ Complete this [vision statement](/activities/finding-your-values-and-vision.pdf)
 
 ### Identifying the hallmarks of needs-fulfilling facilitation
 
-Also before we go on, let’s bring to mind and document the hallmarks of excellent, needs-fulfilling facilitation.   
+Also before we go on, let’s bring to mind and document the hallmarks of excellent, needs-fulfilling facilitation.  
 Think back to three of the best events, projects, or workshops you attended as a facilitator or participant.
 
-Try to pick one big example \(like a large gathering or long-term project\), one medium example \(like a smaller gathering or workshop that lasted for several sessions\), and one small example \(like a one-day hackathon or conference session\).
+Try to pick one big example \(like a large gathering or long-term project\), one medium example \(like a smaller gathering or workshop that lasted for several sessions\), and one small example \(like a single class, a one-day hackathon or conference session\).
 
 Regardless of whether or not you led part of that work, look back at each example as a facilitator.
 
