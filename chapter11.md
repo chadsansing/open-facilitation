@@ -1,4 +1,4 @@
-# 11. Event prep
+# 4. Event prep
 
 _Now that you have a plan, get ready to deliver._
 
