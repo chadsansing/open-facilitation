@@ -4,7 +4,7 @@ _Affirm your roles and set aside time to connect and rehearse._
 
 ## Affirm your roles
 
-Previously \(in [section 2.6](chapter8.md), we thought about how to assemble a team and define teammates’ roles on a project. We emphasized the importance of asking for help from people whose expertise and talents complement your own. We also spent time unpacking the importance of “playing your lane” during an event. When you work with a team of facilitators, everyone should have a clearly defined role during each part of your class, session, or workshop.
+Previously \(in [section 2.6](chapter8.md)\), we thought about how to assemble a team and define teammates’ roles on a project. We emphasized the importance of asking for help from people whose expertise and talents complement your own. We also spent time unpacking the importance of “playing your lane” during an event. When you work with a team of facilitators, everyone should have a clearly defined role during each part of your class, session, or workshop.
 
 You need to design your team and fulfill your roles in an intentional, organized way so learners know whom to ask for help when and how to share general insights and questions with the entire group. If every facilitator tries to be all things for all learners, your team will come across as scattered and at odds with itself.
 
