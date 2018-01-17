@@ -8,15 +8,12 @@ As an educator and leader, you’ve likely participated in a broad spectrum of p
 
 You may have
 
-* Coordinated a project online using shared documents and project management tools like [Etherpad](http://etherpad.org/) and [GitHub](https://github.com) to connect contributors around the world.
-* Organized a local event like a [hackathon](http://spark.stab.org) or [unconference](https://en.wikipedia.org/wiki/Unconference) using similar tools to gather your community and share work face-to-face \(F2F\).
-* Planned a workshop teaching others how to use a platform like [Minecraft](https://minecraft.net), [paper prototyping](https://en.wikipedia.org/wiki/Paper_prototyping), or [Thimble](https://thimble.mozilla.org).
+* Running a professional development workshop for your peers.
+* Teaching a class for your community.
+* Coordinated an online project.
+* Organizing a local event.
 
-Each kind of facilitation asks you to do something different. For example,
-
-* Managing a project online requires you to work at a distance from your teammates, but it gives you time to develop a shared goal, schedule, and set of practices.
-* Organizing a local event brings you face-to-face with your community around a common, shared experience, but for a short amount of time.
-* Running a workshop gives you even less time to share a common learning experience with participants who depend on you to adapt and customize your plans according to their needs.
+Each kind of facilitation asks you to do something different. For example. for example, you might teach a class or facilitate an event or workshop in-person, while delivering an online class our course asks you to work at a distance from your participants.
 
 Despite their differences, these kinds of facilitation have a lot in common. In every case, your teammates, community members, and learners depend on you to anticipate and plan for their needs.
 
@@ -44,9 +41,13 @@ We want to become expert at anticipating, planning for, and responding to an eve
 
 At Mozilla, we value openness and innovation, especially on the web. We value those things in service to people around the world who deserve online privacy, better web literacy education, safe, digitally inclusive communities, and opportunities to use a decentralized, democratic web to innovate solutions to the problems they face in their daily lives, online and off.
 
-When we say we value “openness,” we mean that we value being transparent in our mission and the work we do to carry it out. As we strive to keep the web an open resource, accessible to all, we want to document and share our work to
+ At its core, being open is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors to participate in the work, adapt or remix it according to their needs, and get value from it.
 
-* Make it available for others to use, iterate, and improve.
+Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals. Open leaders empower others to become leaders within open projects and communities.
+
+When we say we value “openness” or practice "open leadership,"  we mean that we value being transparent in our mission and the work we do to carry it out. As we strive to keep the web an open resource, accessible to all, we want to document and share our work to
+
+* Make it available for others to use, adapt or remix, and improve.
 * Inspire others to take similar actions to champion the open web.
 * Hold ourselves accountable to a global public by sharing what we say, as well as what we do.
 

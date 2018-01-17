@@ -4,7 +4,7 @@
 
 _**Let’s work together to become better facilitators.**_
 
-Welcome to this guide to a personal, humane, and design-driven facilitation practice for activists, educators, and librarians. The lessons in this guide have been drawn from building networks and web literacy work at the [Mozilla Foundation](https://foundation.mozilla.org/). This guide is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Welcome to this guide to a personal, humane, and design-driven facilitation practice for experienced activists, educators, and librarians who want to iterate their practice and develop it further. The lessons in this guide have been drawn from building networks and web literacy work at the [Mozilla Foundation](https://foundation.mozilla.org/). This guide is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 This purpose of the guide is to help you think of facilitation as a design process and set of practices you can use to improve your teaching over time through close attention to learners' needs and your own assumptions about them.
 
@@ -12,7 +12,20 @@ This purpose of the guide is to help you think of facilitation as a design proce
 * Each subsection will unpack part of that topic 
 * Each subsection will also suggest assignments that can help you develop your facilitation skills further.
 
-For the purposes of this guide, "facilitation" and "teaching" are synonymous, and an "event" can be any instance of facilitation or teaching from a single class to a multi-day workshop to a multi-module online course.
+The sections of the guide include:
+
+1. Envisioning open facilitation
+2. Decision-making
+3. Design
+4. Event prep
+5. Trust
+6. Care
+7. Failure
+8. Debrief
+9. Reflection
+10. Outcomes of open facilitation
+
+For the purposes of this guide, "facilitation" and "teaching" are synonymous, and an "event" can be any instance of facilitation or teaching from a single class to a multi-day workshop to a multi-module online course. You might also take pieces of what you learn here and use them to help facilitate other events like meetings or parties, as well.
 
 If you’re curious about facilitating different kinds of work - such as event planning or project management - check out Mozilla’s [Open Leadership programs](https://mozilla.github.io/leadership-training/), as well.
 

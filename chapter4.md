@@ -4,7 +4,7 @@ _Follow these steps to plan facilitation you can test and improve_
 
 ## What is the design process?
 
-The [design process](https://en.wikipedia.org/wiki/Design#Design_as_a_process) - also called the engineering process or engineering design process - is a series of intentional steps you can take to
+The [design process](https://en.wikipedia.org/wiki/Design#Design_as_a_process)  is a series of intentional steps you can take to
 
 * Research and define a problem.
 * Identify users’ needs for solving that problem.
@@ -13,8 +13,6 @@ The [design process](https://en.wikipedia.org/wiki/Design#Design_as_a_process) -
 * Analyze your data from testing.
 * Iterate - or revise - your project in response to the data.
 * Continue testing until you have a working solution.
-
-[This video](https://www.youtube.com/watch?v=fxJWin195kU) shares another way to look at the design process.
 
 Sometimes, iterating your design means starting over, but you don’t usually have to start from scratch. What you learn from each failure informs and improves your next change or design. The idea is to reach a solution that works for your users - it need not be perfect and it can always be refined after more testing, especially with different audiences.
 
