@@ -8,10 +8,10 @@ As an educator and leader, you’ve likely participated in a broad spectrum of p
 
 You may have
 
-* Running a professional development workshop for your peers.
-* Teaching a class for your community.
+* Run a professional development workshop for your peers.
+* Taught a class for your community.
 * Coordinated an online project.
-* Organizing a local event.
+* Organized a local event.
 
 Each kind of facilitation asks you to do something different. For example. for example, you might teach a class or facilitate an event or workshop in-person, while delivering an online class our course asks you to work at a distance from your participants.
 
@@ -41,7 +41,7 @@ We want to become expert at anticipating, planning for, and responding to an eve
 
 At Mozilla, we value openness and innovation, especially on the web. We value those things in service to people around the world who deserve online privacy, better web literacy education, safe, digitally inclusive communities, and opportunities to use a decentralized, democratic web to innovate solutions to the problems they face in their daily lives, online and off.
 
- At its core, being open is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors to participate in the work, adapt or remix it according to their needs, and get value from it.
+At its core, being open is about structuring any project or organization, technical or not, to invite the widest possible diversity of contributors to participate in the work, adapt or remix it according to their needs, and get value from it.
 
 Open Leadership as a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals. Open leaders empower others to become leaders within open projects and communities.
 
