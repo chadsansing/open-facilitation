@@ -60,7 +60,7 @@ Learning how to improve your work is essential to meeting your audience’s need
 
 ### Draft a reflection template for yourself
 
-Use [this template](/activities/reflection-template) to structure your next reflection meeting. Edit the questions to reflect the specifics of your last event and concerns of your team. Draw on your notes from your debrief of the event and the results of your post-survey to ask after particular activities and changes that need to be made.
+Use [this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/reflection-template.pdf) to structure your next reflection meeting. Edit the questions to reflect the specifics of your last event and concerns of your team. Draw on your notes from your debrief of the event and the results of your post-survey to ask after particular activities and changes that need to be made.
 
 Set up a shared document, copy and paste these questions into it, and take notes during your meeting. Identify what you need to change while planning your next event. Finally, list the next steps you’ll take to make that change happen.
 

@@ -84,7 +84,7 @@ Think back to an event you recently facilitated or think ahead to your next even
 
 How would you answer these questions? What questions would you add? How would you use your answers to write a problem statement that could guide your design?
 
-Use [this template](/activities/write-a-problem-statement.pdf) to write a problem statement capturing the challenges you faced in designing your last event or the challenges you face in designing your next one. Bookmark your responses so you have a model of how to define your design problems for future facilitation projects.
+Use [this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/write-a-problem-statement.pdf) to write a problem statement capturing the challenges you faced in designing your last event or the challenges you face in designing your next one. Bookmark your responses so you have a model of how to define your design problems for future facilitation projects.
 
 ### Develop a pre-survey
 

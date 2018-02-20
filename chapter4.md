@@ -86,5 +86,5 @@ We’ll come back to this idea of facilitation in the moment and teaching small 
 
 ### Design process self-assessment
 
-Use [this self-assessment tool](/activities/design-process-self-assessment.pdf) to think through how you already use the design process to plan facilitation and how you might use it even more intentionally in the future. As you continue through this curriculum and begin planning your next event, use this reflection as a prompt to plan as intentionally as possible to meet your learners’ needs.
+Use [this self-assessment tool](https://github.com/chadsansing/open-facilitation/blob/master/activities/design-process-self-assessment.pdf) to think through how you already use the design process to plan facilitation and how you might use it even more intentionally in the future. As you continue through this curriculum and begin planning your next event, use this reflection as a prompt to plan as intentionally as possible to meet your learners’ needs.
 

@@ -68,13 +68,13 @@ Design for the event you’re facilitating. Design for the learners who will att
 
 ### Make a roadmap for learners
 
-Write, sketch, or otherwise compose a roadmap that charts learners’ journey through your event. How will they experience their learning and your facilitation of it? Check out this example from [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels/issues/1) and use [this template](/activities/make-a-roadmap-for-learners.pdf) to make a learner-focused map on the timescale of you event’s agenda.
+Write, sketch, or otherwise compose a roadmap that charts learners’ journey through your event. How will they experience their learning and your facilitation of it? Check out this example from [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels/issues/1) and use [this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/make-a-roadmap-for-learners.pdf) to make a learner-focused map on the timescale of you event’s agenda.
 
 Afterwards, iterate your designs and planning to account for you think your learners will need.
 
 ### Write personas for your event
 
-Check out [this example and template](/activities/write-personas-for-your-event) for writing personas. Write 2-3 personas that capture different kinds of users who might attend your event.
+Check out [this example and template](https://github.com/chadsansing/open-facilitation/blob/master/activities/write-personas-for-your-event.pdf) for writing personas. Write 2-3 personas that capture different kinds of users who might attend your event.
 
-After you imagine their background and experience, revise your designs and plans again to account for the needs that users like these will bring to your session.
+After you imagine their background and experience, revise your designs and plans again to account for the needs that users like these will bring to your session. You can also write "before and after" personas to show what might bring a user to your project and then demonstrate the benefit they gain from it.
 

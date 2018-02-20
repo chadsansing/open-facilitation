@@ -61,7 +61,7 @@ Try to budget enough time into your big design and planning loop to make sure yo
 
 ### Ask for testing
 
-Go back to your prototypes from our last section of the facilitation curriculum.  Pick one that you’d like to test and iterate. Identify 3-5 potential testers for your work. Make a copy of [this boilerplate template](/activities/ask-for-feedback) and then customize it to ask your testers for help. Be sure to
+Go back to your prototypes from our last section of the facilitation curriculum.  Pick one that you’d like to test and iterate. Identify 3-5 potential testers for your work. Make a copy of [this boilerplate template](https://github.com/chadsansing/open-facilitation/blob/master/activities/ask-for-feedback.pdf) and then customize it to ask your testers for help. Be sure to
 
 * Share a link to the material you want tested.
 * Ask specific questions that will help you iterate and improve the work.
