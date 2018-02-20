@@ -47,11 +47,11 @@ This passage from [“Teach Small”](https://medium.com/read-write-participate/
 
 ### Identify possible teammates
 
-Use [this organizer](/activities/identify-possible-teammates) to brainstorm whom you might invite to help you improve your facilitation work before, during, and after an event.
+Use [this organizer](https://github.com/chadsansing/open-facilitation/blob/master/activities/identify-possible-teammates.pdf) to brainstorm whom you might invite to help you improve your facilitation work before, during, and after an event.
 
 Think of people who can help with design, delivery, or both. There’s no blocker to calling on different kinds of expertise at different moments of a project or event. Just be sure to recognize and value the contributions people make to your work and contribute back to those people, as well.
 
 ## Invite colleagues to co-facilitate
 
-Customize [this template](/activities/invite-colleagues-to-co-facilitate) to invite potential collaborators to contribute to your work. This might be a great time to evaluate potential relationships while testing your prototype activities from earlier in the section.
+Customize[ this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/invite-colleagues-to-co-facilitate.pdf) to invite potential collaborators to contribute to your work. This might be a great time to evaluate potential relationships while testing your prototype activities from earlier in the section.
 

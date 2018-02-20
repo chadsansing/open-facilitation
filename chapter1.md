@@ -71,7 +71,7 @@ Regardless of whether or not you led part of that work, look back at each exampl
 
 What made each event work so well? From what you know or what you can tell as an observer, how did each example fulfill its participants’ needs? What made each example so delightful, relevant, or useful to its people?
 
-Use [this organizer](/activities/identifying-the-hallmarks) to list what made each example of facilitation succeed and then to draw some general conclusions about they all have in common. Figuring out how to apply those common features to small moments of teaching learning will be the crux of our work together in this module.
+Use [this organizer](https://github.com/chadsansing/open-facilitation/blob/master/activities/identifying-the-hallmarks.pdf) to list what made each example of facilitation succeed and then to draw some general conclusions about they all have in common. Figuring out how to apply those common features to small moments of teaching learning will be the crux of our work together in this module.
 
 Keep this list nearby, alongside your values, as we move through the curriculum.
 

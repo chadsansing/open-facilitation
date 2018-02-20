@@ -38,7 +38,7 @@ Finally, accept that there are failures and mistakes that you can’t anticipate
 
 ### Rehearse ahead of failure
 
-Use [this template](/activities/rehearsing-ahead-of-failure) and the examples on it to draft scripts of your own that you can rehearse in case of failure. Knowing that you have something constructive to say when things go wrong can help you approach the unknowns of facilitation with greater adaptability, comfort, and responsiveness to your learners’ needs.
+Use [this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/rehearsing-ahead-of-failure.pdf) and the examples on it to draft scripts of your own that you can rehearse in case of failure. Knowing that you have something constructive to say when things go wrong can help you approach the unknowns of facilitation with greater adaptability, comfort, and responsiveness to your learners’ needs.
 
 If you only rehearse for success, you’ll be lost when you fail.
 

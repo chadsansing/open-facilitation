@@ -75,5 +75,5 @@ If you can find ways to repeat this process between and during events, you’ll 
 
 ### Documenting your decision-making process
 
-Review the DARCI roles above. Use them as a mentor-text or inspiration to compose and share your own decision-making process. This might be a code you follow or a framework like DARCI that your team adopts in its work. Use [this template](/activities/defining-a-decision-making-process.pdf) to capture and share your thoughts.
+Review the DARCI roles above. Use them as a mentor-text or inspiration to compose and share your own decision-making process. This might be a code you follow or a framework like DARCI that your team adopts in its work. Use [this template](https://github.com/chadsansing/open-facilitation/blob/master/activities/defining-a-decision-making-process.pdf) to capture and share your thoughts.
 

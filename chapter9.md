@@ -54,7 +54,7 @@ Be intentional about reading the room. Make plans to stop and ask yourself how t
 
 ### Map opportunities for small-loop design and facilitation at your next event
 
-Look at [this example](/activities/map-opportunities-for-small-loop.pdf) and use it as a model for creating your own facilitation flow chart for an upcoming event. Can you identify moments when you think it will be crucial to read the room? When it will be important to know whether or not your learners are with you?
+Look at [this example](https://github.com/chadsansing/open-facilitation/blob/master/activities/map-opportunities-for-small-loop.pdf) and use it as a model for creating your own facilitation flow chart for an upcoming event. Can you identify moments when you think it will be crucial to read the room? When it will be important to know whether or not your learners are with you?
 
 Identify those spots and write in a few examples of small-loop actions you might take to see how things are going and make any changes that might improve an activity for your learners.
 

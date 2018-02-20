@@ -8,10 +8,11 @@ Make sure to prepare a post-event survey for your audience ahead of your event. 
 
 In some cases, you audience’s feedback will match what you think; in other cases, you’ll be surprised. For example, you might want to cut a new activity that failed while your audience members report that they want to see it developed further because of its potential.
 
-Whenever you can, try to align your post-event survey with any pre-event survey you send to your participants. You can repeat or slightly change many of the same questions to find out whether or not attendees think they grew or learned new concepts and skills as a result of your facilitation.  
+Whenever you can, try to align your post-event survey with any pre-event survey you send to your participants. You can repeat or slightly change many of the same questions to find out whether or not attendees think they grew or learned new concepts and skills as a result of your facilitation.
+
 Here’s an example of a post-survey from a web literacy training run by Mozilla:
 
-\[Survey\]
+* [NAA Mozilla Web Literacy Leaders Training 2016 Follow-up Survey](https://docs.google.com/forms/d/e/1FAIpQLSf4ISVDCOmvj_i48pR2TKOyTorO_ykJlvn8q64dz4Vr1BdqiQ/viewform?usp=sf_link)
 
 It’s not uncommon to see results “drop” in a post-survey if your class, session, or workshop helps learners get a more accurate view of their competencies than they had before. However, generally, repeating questions like these and then following up with questions about the training itself lets you see how participants feel about what - and how much - they learned. The questions in the last half of the post-event survey invite participants to rate the effectiveness of your facilitation to give you a more complete picture of their experiences throughout the day.
 
